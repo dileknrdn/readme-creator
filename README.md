@@ -32,6 +32,5 @@
 
   ## Questions
 
-  If you have any questions, please reach out to me at Email: dileknuredin@hotmail.com or visit my GitHub profile at [GitHub : dileknrdn ](
-
-  )
+  If you have any questions, please reach out to me at Email: dileknuredin@hotmail.com or 
+  visit my GitHub profile at https://github.com/dileknrdn 
