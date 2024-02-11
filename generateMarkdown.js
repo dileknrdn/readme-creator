@@ -55,4 +55,4 @@ module.exports = generateMarkdown;
 
 // Path: readme-generator/index.js
 // Compare this snippet from readme-generator/generateMarkdown.js:
-// const generateMarkdown = require("./generateMarkdown.js");
+// const generateMarkdown = require("./generateMarkdown.js"); 
